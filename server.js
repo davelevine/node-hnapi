@@ -116,10 +116,10 @@ app.get('/', function(req, res){
 		name: 'node-hnapi',
 		desc: 'Unofficial Hacker News API',
 		version: '1.0.0',
-		project_url: 'https://github.com/cheeaun/node-hnapi/',
-		documentation_url: 'https://github.com/cheeaun/node-hnapi/wiki/API-Documentation',
-		author: 'cheeaun',
-		author_url: 'http://cheeaun.com/',
+		project_url: 'https://github.com/davelevine/node-hnapi/',
+		documentation_url: 'https://github.com/davelevine/node-hnapi/wiki/API-Documentation',
+		author: 'davelevine',
+		author_url: 'http://dave.levine.org/',
 		process: {
 			versions: process.versions,
 			memoryUsage: process.memoryUsage()
