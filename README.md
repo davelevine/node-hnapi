@@ -25,7 +25,6 @@ Quick Start
 5. `npm start`
 6. Load `localhost:1337` in your web browser.
 
-
 Example
 -------------
 
@@ -47,7 +46,7 @@ HNapi uses [dotenv](https://github.com/motdotla/dotenv) for configuration.
 License
 -------
 
-Licensed under the [MIT License](/node-hnapi/LICENSE).
+[MIT](LICENSE.md).
 
 Other APIs
 ----------
