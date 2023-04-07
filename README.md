@@ -1,17 +1,10 @@
 Hacker News (unofficial) API
 ============================
 
-Yet another unofficial API for [Hacker News](http://news.ycombinator.com/). Currently being used by [my other project](https://github.com/cheeaun/hackerweb). Feel free to fork and contribute.
+Yet another unofficial API for [Hacker News](http://news.ycombinator.com/).
 
-- API (Cloudflare CDN, faster response time): <http://api.hackerwebapp.com/>
-- API Documentation: <https://github.com/cheeaun/node-hnapi/wiki/API-Documentation>
-
----
-
-☕️ Buy me a coffee ☕ (server, domain & maintenance)
---
-
-[![Donate](https://d1iczxrky3cnb2.cloudfront.net/button-small-blue.png)](https://donorbox.org/support-cheeaun) [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cheeaun)
+- API (Cloudflare CDN, faster response time): <http://api.xdv.com/>
+- API Documentation: <https://github.com/davelevine/node-hnapi/wiki/API-Documentation>
 
 ---
 
@@ -36,7 +29,7 @@ Quick Start
 Example
 -------------
 
-> <http://api.hackerwebapp.com/news?page=2>
+> <http://api.xdv.com/news?page=2>
 
 Configuration
 -------------
@@ -54,7 +47,7 @@ HNapi uses [dotenv](https://github.com/motdotla/dotenv) for configuration.
 License
 -------
 
-Licensed under the [MIT License](http://cheeaun.mit-license.org/).
+Licensed under the [MIT License](/node-hnapi/LICENSE).
 
 Other APIs
 ----------
