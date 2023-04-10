@@ -119,7 +119,7 @@ app.get('/', function(req, res){
 		project_url: 'https://github.com/davelevine/node-hnapi/',
 		documentation_url: 'https://github.com/davelevine/node-hnapi/wiki/API-Documentation',
 		author: 'davelevine',
-		author_url: 'http://dave.levine.org/',
+		author_url: 'https://dave.levine.org/',
 		process: {
 			versions: process.versions,
 			memoryUsage: process.memoryUsage()
